@@ -1,7 +1,7 @@
 # DIY Publications
 
 Storage repo for the pocket guides, cheat sheets, and zines I generate using LaTeX
-and other tools. Always a work in progress. Created by Megan Guiney, using data
+and other tools. Always a work in progress. Created by me (Megan Guiney), using data
 aggregated from personal experience and all over the web. Citations created as
 I go. If you see anything here that you feel is based off of a work of yours,
 please let me know and I will give credit where credit is due. Some of the coming
