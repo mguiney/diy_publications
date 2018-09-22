@@ -13,8 +13,9 @@ publication of yours as a source.
   * **Regular Expressions in Python and Perl**
     * File names:
       * regex\_notation.pdf
-      * regex\_notation\_mini.pdf
+      * regex\_cover.jpg
     * Status: In progress
-    * NOTE: the difference between the "mini" and regular versions is just that the regular size is intended to be printed as a digest-size zine, while the mini size is a mini zine. for context:
-      * Digest size = 8.5" * 5.5"
-      * Mini size = 4.25" * 5.5"
+    * Re: the cover: *yes* i know it looks like some edgelordy h4x0r stuff, but it was
+                     designed in the tradition of old-school cutpaste publications,
+                     which had usually run through a copier 10 times since initial
+                     distribution by the time you got them, so... *shrug*.
