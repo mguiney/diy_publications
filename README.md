@@ -14,7 +14,7 @@ publication of yours as a source.
     * File names:
       * regex\_notation.pdf
       * regex\_cover.jpg
-    * Status: In progress
+    * Status: In progress, in formatting layout phase
     * Re: the cover: *yes* i know it looks like some edgelordy h4x0r stuff, but it was
                      designed in the tradition of old-school cutpaste publications,
                      which had usually run through a copier 10 times since initial
