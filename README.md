@@ -11,13 +11,7 @@ publication of yours as a source.
 
 ## Contents:
   * **Regular Expressions in Python and Perl**
-    * File names:
-      * regex\_notation\_folding.pdf
-        * This layout is meant to be folded in half and stapled along a center line.
-        * I hope to release one or two other layouts as well, but this is the primary version
-      * regex\_cover.jpg
-    * Status: In progress, in formatting layout phase
-    * Re: the cover: *yes* i know it looks like some edgelordy h4x0r stuff, but it was
-                     designed in the tradition of old-school cutpaste publications,
-                     which had usually run through a copier 10 times since initial
-                     distribution by the time you got them, so... *shrug*.
+    * Status:(approximately) Complete
+
+
+MORE TO COME
