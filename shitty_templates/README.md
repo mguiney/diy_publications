@@ -5,5 +5,8 @@ Templates I made that I used for my zines, created by me. I'm relatively new to 
 I will be cleaning them up, I swear.
 
 ## Contents
-  * base\_zine\_template.tex: coming soon
+  * mguiney\_author\_pic.png
+    ** FOR MY OWN USAGE, PLEASE DO NOT USE
+    ** This is a chibi-fied image of me drawn for me by my good friend @jeektri which i then shittily modified after I cut off most of my hair
+  * basic\_zine\_template.tex: Improvements coming soon
 
