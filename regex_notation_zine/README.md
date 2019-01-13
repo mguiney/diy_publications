@@ -1,5 +1,6 @@
 ## Regex Notation Zine
 
+
 This is my first effort, and as such, has taken quite a while to complete. I rolled a fair bit of the formatting on this myself, and so it is somewhat clumsy.
 
 The distinction between the two versions of the zine is a matter of print layout. If, when printing doublesided, your printer flips every other page, use the version labeled "2". If not, use version "1".
