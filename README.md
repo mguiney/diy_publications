@@ -10,8 +10,10 @@ to a source, but i'd be glad to straighten that out, if I did, in fact, use a
 publication of yours as a source.
 
 ## Contents:
-  * **Regular Expressions in Python and Perl**
-    * Status:(approximately) Complete
+  * **shitty_templates:**: crude templates for documentation that i'm working on. very unpolished, will hopefully be refined over time.
+  * **zines:** folded booklet.
+    * regex\_notation: a primer/cheatsheet on Perl/Python regexes in the form of a folded booklet.
+  * **cheatsheets:** quick references for things i've worked with/tinkered on.
 
 
 MORE TO COME
