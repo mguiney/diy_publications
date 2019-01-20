@@ -11,9 +11,9 @@ publication of yours as a source.
 
 ## Contents:
   * **shitty_templates:**: crude templates for documentation that i'm working on. very unpolished, will hopefully be refined over time.
-  * **zines:** folded booklet.
+  * **zines:** documentation/side projects that have been wrangled into a foldable booklet. These are often comprised of multiple files, so each has its own subdirectory. The printable file will be a pdf.
     * regex\_notation: a primer/cheatsheet on Perl/Python regexes in the form of a folded booklet.
   * **cheatsheets:** quick references for things i've worked with/tinkered on.
-
+    * launchd.pdf: reference sheet for launchd, macOS's unified service-management framework. How I came to make one of these is a long story, but *shrugs*.
 
 MORE TO COME
