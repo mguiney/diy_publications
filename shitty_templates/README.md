@@ -8,5 +8,6 @@ I will be cleaning them up, I swear.
   * mguiney\_author\_pic.png
     ** FOR MY OWN USAGE, PLEASE DO NOT USE
     ** This is a chibi-fied image of me drawn for me by my good friend @jeektri which i then shittily modified after I cut off most of my hair
-  * basic\_zine\_template.tex: Improvements coming soon
+  * src/zine\_template.tex: Improvements coming soon
+  * src/cheatsheet\_template.tex (WIP)
 
